@@ -243,9 +243,9 @@ Semoga semua yang kamu impikan pelan-pelan mendekat dan jadi nyata.
 Tetap jadi kamu, ya—yang manis, lucu, cantik, dan selalu punya cara bikin suasana jadi nyaman.
 
 Happy Birthday, Stefani.
-Semoga hidupmu selalu dipenuhi hal-hal yang membuatmu tersenyum.
+Aku menyukaimu, tapi di sisi lain, kita adalah orang yang sedang sibuk mengejar mimpi masing-masing, kan? Ku harap, kita bertemu lagi di versi terbaik kita ya.
 
-I love you so much! 💕`;
+See you! 💕`;
     
     // Clear content and start fresh
     messageContent.innerHTML = '';
@@ -300,9 +300,10 @@ Semoga semua yang kamu impikan pelan-pelan mendekat dan jadi nyata.
 Tetap jadi kamu, ya—yang manis, lucu, cantik, dan selalu punya cara bikin suasana jadi nyaman.
 <br><br>
 Happy Birthday, Stefani.
-Semoga hidupmu selalu dipenuhi hal-hal yang membuatmu tersenyum.
+Aku menyukaimu, tapi di sisi lain, kita adalah orang yang sedang sibuk mengejar mimpi masing-masing, kan? Ku harap, kita bertemu lagi di versi terbaik kita ya.
+
 <br><br>
-I love you so much! 💕`;
+See you! 💕`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
