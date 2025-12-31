@@ -232,7 +232,7 @@ Di tahun yang baru ini, ku harap Tuhan selalu memberkati, memberi kemudahan, ked
 
 Terus tumbuh jadi versi terbaik dari dirimu: yang cantik, kuat, lembut, dan penuh hal-hal yang kamu cintai. Aku berharap semoga semesta selalu membawamu menuju kebahagiaan yang kamu cari, dan menghadirkan ketenangan yang kamu butuhkan. Semoga tahun ini membawa banyak momen lucu, ketawa kecil, dan hal-hal manis yang kamu suka, serta semua yang kamu impikan pelan-pelan mendekat dan jadi nyata.
 
-Oh iya, satu hal lagi, maaf ya kalo banyak yapping nya hehe. Stefani, sebenarnya aku mau bilang ini di real life sih, tapi rasa malu ku lebih tinggi daripada keberanian ku, hadeh. Stefani, sepertinya aku suka padamu :p, bagaimana denganmu? Mengenai iya/tidak nya jawabannya adalah hakmu, eaa akhirnya aku confess.
+Oh iya, satu hal lagi, maaf ya kalo banyak yapping nya hehe. Stefani, sebenarnya aku mau bilang ini di real life sih, tapi rasa malu ku lebih tinggi daripada keberanian ku, hadeh. Stefani, sepertinya aku suka padamu :p, bagaimana denganmu? Mengenai iya/tidak nya jawabannya adalah hakmu, so just take your time, i always wait for you.
 
 Selamat Tahun Baru, Stefani.
 ‹Filipi 1:3›, ‹Efesus 1:16›.`;
@@ -280,7 +280,7 @@ Di tahun yang baru ini, ku harap Tuhan selalu memberkati, memberi kemudahan, ked
 <br><br>
 Terus tumbuh jadi versi terbaik dari dirimu: yang cantik, kuat, lembut, dan penuh hal-hal yang kamu cintai. Aku berharap semoga semesta selalu membawamu menuju kebahagiaan yang kamu cari, dan menghadirkan ketenangan yang kamu butuhkan. Semoga tahun ini membawa banyak momen lucu, ketawa kecil, dan hal-hal manis yang kamu suka, serta semua yang kamu impikan pelan-pelan mendekat dan jadi nyata.
 <br><br>
-Oh iya, satu hal lagi, maaf ya kalo banyak yapping nya hehe. Stefani, sebenarnya aku mau bilang ini di real life sih, tapi rasa malu ku lebih tinggi daripada keberanian ku, hadeh. Stefani, sepertinya aku suka padamu :p, bagaimana denganmu? Mengenai iya/tidak nya jawabannya adalah hakmu, eaa akhirnya aku confess.
+Oh iya, satu hal lagi, maaf ya kalo banyak yapping nya hehe. Stefani, sebenarnya aku mau bilang ini di real life sih, tapi rasa malu ku lebih tinggi daripada keberanian ku, hadeh. Stefani, sepertinya aku suka padamu :p, bagaimana denganmu? Mengenai iya/tidak nya jawabannya adalah hakmu, so just take your time, i always wait for you.
 <br><br>
 Selamat Tahun Baru, Stefani.
 <br>
